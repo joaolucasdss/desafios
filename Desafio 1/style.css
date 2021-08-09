@@ -1,0 +1,29 @@
+html {
+    background-color: pink;
+    font-size: 32px;
+}
+
+h1 {
+    color: teal;
+    font-size: 1rem ;
+}
+
+div {
+    color: teal;
+    font-size: 0.7rem;
+    margin: 0.2rem;
+
+}
+
+li {
+    margin: 00.2rem;
+    padding: 0.5rem;
+    border:solid teal 0.2rem;
+    
+}
+
+footer {
+    color: white;
+    background-color: teal;
+    padding: 1rem;
+}
